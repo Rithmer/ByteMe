@@ -1,0 +1,31 @@
+/* Стили для всей страницы */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(128, 165, 177);
+    margin: 0;
+    padding: 20px;
+}
+
+/* Стили для контейнера */
+.container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 400px;
+    margin: 50px auto;
+}
+
+/* Стили для заголовка */
+h1 {
+    color: darkblue;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+/* Стили для текста */
+p {
+    color: gray;
+    font-size: 18px;
+    line-height: 1.5;
+}
